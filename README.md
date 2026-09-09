@@ -33,12 +33,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Keinguyen94&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keinguyen94&layout=compact&theme=tokyonight&hide=html,css"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keinguyen94&theme=tokyonight" alt="Keinguyen94 Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Keinguyen94&theme=react-dark&hide_border=true" />
 </p>
 
 ---
