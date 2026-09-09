@@ -39,12 +39,13 @@
 
 ---
 
-### 📈 Activity & Profile Overview
+### 💼 Services & Highlights
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Keinguyen94&theme=react-dark&hide_border=true&bg_color=0D1117" />
+  <img src="https://img.shields.io/badge/Custom_Themes-Shopify_%26_WordPress-96BF48?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Speed_Optimization-PageSpeed_90+-21759B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API_Integration-Payment_%26_Shipping-96588A?style=for-the-badge" />
 </p>
-
 ---
 
 ### 📫 Connect with Me
