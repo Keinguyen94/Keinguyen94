@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Kei 👋</h1>
+<h1 align="center">Hi there, I'm Kelly 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=96bf48&width=500&lines=E-commerce+Developer;WordPress+%26+WooCommerce+Expert;Shopify+Theme+%26+App+Developer;Custom+Web+Solutions" alt="Typing SVG" />
